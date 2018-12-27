@@ -5,8 +5,8 @@ Welcome to TravelMate documentation!
 
 :Members:
 
-   * Cagla Kaya
    * Idil Ugurnal
+   * Cagla Kaya
    
 Note: You can view full documentation on: https://itucsdb1834.github.io/itucsdb1834/
 
