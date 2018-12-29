@@ -30,10 +30,4 @@ Python and Flask Libraries are used to develop this web application. Relational 
    
    
 
-Contents:
 
-.. toctree::
-   :maxdepth: 2
-
-   user/index
-   developer/index
